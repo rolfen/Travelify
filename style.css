@@ -533,6 +533,7 @@ a.more-link:hover {
 #site-title a img {
 	vertical-align: inherit;
 	max-width: 978px;
+	max-height: 128px;
 }
 #site-title a span,#site-title a:hover,#site-title a:focus,#site-title a:active {
 	color: #439f55;

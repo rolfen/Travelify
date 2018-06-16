@@ -3,7 +3,7 @@ Theme Name: Travelify
 Theme URI: http://colorlib.com/wp/travelify/
 Description: Adding support for language written in a Right To Left (RTL) direction.
 */
-header, footer {
+#branding, #footerarea {
 	direction: ltr;
 }
 a.readmore {
